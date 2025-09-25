@@ -57,8 +57,9 @@ Key fields include:
 - 🔗 **Motorist injuries** → strong correlation with overall injuries  
 
 Example visualization:  
-![NYC Collisions by Borough](docs/borough_collisions.png)  
-![Correlation Heatmap](docs/correlation_heatmap.png)
+![Borough](images/borough.png)  
+![Persons Injured By Borough](images/persons_injured.png)
+![Monthly Persons Injured](images/monthyl_persons_injured.png)
 
 ---
 
