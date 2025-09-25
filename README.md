@@ -58,8 +58,8 @@ Key fields include:
 
 Example visualization:  
 ![Borough](images/borough.png)  
-![Persons Injured By Borough](images/persons_injured.png)
-![Monthly Persons Injured](images/monthyl_persons_injured.png)
+![Persons Injured By Borough](images/persons_injured_borough.png)
+![Monthly Persons Injured](images/monthly_injured.png)
 
 ---
 
