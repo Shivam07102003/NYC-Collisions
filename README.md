@@ -73,10 +73,9 @@ Example visualization:
 ---
 
 ## 🤝 Contributing
-Pull requests are welcome!  
-- Fork the repo  
-- Create a feature branch (`git checkout -b feature-name`)  
-- Commit changes and open a Pull Request  
+This is a proprietary project.  
+Contributions are not accepted unless explicitly approved by the author.  
+Please contact me before suggesting changes.
 
 ---
 
@@ -89,4 +88,3 @@ This project is licensed under the **MIT License**.
 =======
 # NYC-Collisions
 Analyzes NYC collision data using Python and visualizations to explore accident patterns across boroughs, contributing factors, seasonal trends, and relationships between number and types of  injuries.
->>>>>>> 16f866844bf86f18cabc7ff4e59e6a669d0864c4
