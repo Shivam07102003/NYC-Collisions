@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚦 NYC Collisions Analysis
 
 ![Python](https://img.shields.io/badge/python-3.10-blue)
@@ -85,3 +86,7 @@ This project is licensed under the **MIT License**.
 ---
 
 📌 **Author:** *Shivam Amitbhai Patel*
+=======
+# NYC-Collisions
+Analyzes NYC collision data using Python and visualizations to explore accident patterns across boroughs, contributing factors, seasonal trends, and relationships between number and types of  injuries.
+>>>>>>> 16f866844bf86f18cabc7ff4e59e6a669d0864c4
