@@ -2,7 +2,7 @@
 # 🚦 NYC Collisions Analysis
 
 ![Python](https://img.shields.io/badge/python-3.10-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
+![License](https://img.shields.io/badge/license-Proprietary-red)
 
 Analyze **motor vehicle collisions in New York City** using **data science, statistics, and machine learning**.  
 This project explores **borough-level patterns, contributing factors, seasonal effects, and injury correlations** from over **230K+ collision records**.
