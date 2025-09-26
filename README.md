@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 # 🚦 NYC Collisions Analysis
 
-![Python](https://img.shields.io/badge/python-3.10-blue)
+![Python](https://img.shields.io/badge/python-3.12-blue)
 ![License](https://img.shields.io/badge/license-Proprietary-red)
 
 Analyze **motor vehicle collisions in New York City** using **data science, statistics, and machine learning**.  
